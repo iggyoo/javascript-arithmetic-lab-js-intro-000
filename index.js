@@ -14,8 +14,8 @@ function divide() {
   5.0 / 2.5 // 2
 }
 
-function aB(430 + 5) {
-return 435
+function aB() {
+
 }
 
 function makeInt(string) {
