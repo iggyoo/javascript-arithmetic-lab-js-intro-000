@@ -15,7 +15,8 @@ function divide() {
 }
 
 function aB() {
-
+1000 + 228
+return 1228
 }
 
 function makeInt(string) {
