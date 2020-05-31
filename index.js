@@ -14,7 +14,7 @@ function divide() {
   5.0 / 2.5 // 2
 }
 
-function aB(341) {
+function aB() {
 340 + 1
 }
 
