@@ -14,7 +14,9 @@ function divide() {
   5.0 / 2.5 // 2
 }
 
-
+function aB() {
+340 + 1
+}
 
 function makeInt(string) {
 parseInt('string')
