@@ -13,3 +13,11 @@ function multiply() {
 function divide() {
   5.0 / 2.5 // 2
 }
+
+function makeInt(string) {
+parseInt('string')
+}
+
+function preserveDecimal(string) {
+parseFloat ('string')
+}
