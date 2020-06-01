@@ -15,7 +15,7 @@ function divide() {
 }
 
 function add(a, b) {
-return a + b
+return 300 + 30
 }
 
 function makeInt(string) {
