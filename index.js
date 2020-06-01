@@ -14,9 +14,8 @@ function divide() {
   5.0 / 2.5 // 2
 }
 
-function aB() {
-1000 + 228
-return 1228
+function addition(a, b) {
+return a + b
 }
 
 function makeInt(string) {
