@@ -1,27 +1,31 @@
-function add() {
-  1 + 80 // 81
+function add(a,b) {
+  return a + b
 }
 
-function subtract() {
-  60 - 40 // 20
+function subtract(a,b) {
+  return a - b
 }
 
-function multiply() {
-  2 * 3.4 // 6.8 (there's that floating-point arithmetic again...)
+function divide(a,b) {
+  return a / b
 }
 
-function divide() {
-  5.0 / 2.5 // 2
+function multiply(a,b) {
+  return a * b
 }
 
-function add(a, b) {
-return 600 + 5
+function increment(n) {
+  return n += 1
+}
+
+function decrement(n) {
+  return n -= 1
 }
 
 function makeInt(string) {
-parseInt('string')
+  return parseInt(string, 10)
 }
 
 function preserveDecimal(string) {
-parseFloat ('string')
+  return parseFloat(string)
 }
